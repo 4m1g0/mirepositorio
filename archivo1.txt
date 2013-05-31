@@ -1,1 +1,3 @@
-Gracias por visitar TodoHacker.com
+Gracias por visitar http://www.TodoHacker.com
+
+Esto es un tutorial de introducción a git.
